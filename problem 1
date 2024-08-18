@@ -1,0 +1,12 @@
+"There are N petrol pumps P1,P2,...,PN arranged in a clockwise direction along a circular road.
+Consider a truck with a fuel tank that is initially empty, but which has infinite capacity. 
+The truck will initially fuel up at some Pi and move in a clockwise direction along the circular road. 
+Each time it reaches a petrol pump, it will take up all the petrol available at that pump. 
+Write a python program to determine the first Pi such that if the truck starts from Pi, it will be able to completely traverse the circle and return to Pi.
+The amount of petrol that every petrol pump has (in litres), and the distance from that petrol pump to the next petrol pump (in km) will be given to you as inputs. 
+Assume that the truck needs 1 litre of fuel to travel 1 km"
+######
+#python programme
+n=int(input("Enter 
+
+
